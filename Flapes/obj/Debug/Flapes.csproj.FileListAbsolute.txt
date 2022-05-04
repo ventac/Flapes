@@ -1,0 +1,10 @@
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\bin\Debug\Flapes.exe.config
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\bin\Debug\Flapes.exe
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\bin\Debug\Flapes.pdb
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\obj\Debug\Flapes.csprojAssemblyReference.cache
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\obj\Debug\Flapes.Properties.Resources.resources
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\obj\Debug\Flapes.csproj.GenerateResource.cache
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\obj\Debug\Flapes.csproj.CoreCompileInputs.cache
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\obj\Debug\Flapes.exe
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\obj\Debug\Flapes.pdb
+C:\Users\040-gventapanerodrig\Documents\DevLog\Eu\Flapes\Flapes\obj\Debug\Flapes.Flappe.resources
